@@ -1,0 +1,8 @@
+LibTouchMouse Gesture Framework
+...........................................................
+Copyright 2011 Aditya Gaddam (adityagaddam@gmail.com)
+-----------------------------------------------------------
+
+The Gesture Framework provides an easy way to use and 
+write gestures for the Microsoft Touch Mouse through the 
+libtouchmouse project.
